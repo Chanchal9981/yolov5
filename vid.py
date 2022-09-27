@@ -1,3 +1,5 @@
+## extract frame with specific folder(video)
+
 import cv2
 import glob
 from glob import glob
